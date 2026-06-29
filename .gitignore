@@ -1,0 +1,8 @@
+*.csv
+first_output/
+__pycache__/
+*.pyc
+*.nii.gz
+*.tar
+.DS_Store
+figures/
